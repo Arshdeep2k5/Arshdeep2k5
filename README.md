@@ -1,45 +1,49 @@
-# 📜 The Systems Alchemist // Character Sheet
-
-> "Leveling up B.Tech Computer Science (AI-ML) at The NorthCap University."
+# 🕹️ ETHNOGEN // CABINET_01 // INSERT COIN
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│ CHARACTER CLASS: Systems Alchemist [Level 21]            │
-├──────────────────────────────────────────────────────────┤
-│ HP [VRAM Limit]   : 2.0 / 2.0 GB (GeForce MX250)         │
-│ MP [Druggability] : QED >= 0.50 (Strict Safety Filters)   │
-│ STR [C++ / Systems] : 78/100 (Local Vina-Zn Subprocesses)│
-│ INT [GNN / PyTorch] : 94/100 (3D Geometric Deep Learning)│
-│ DEX [API/Databases] : 88/100 (FastAPI & WAL SQLite)      │
-└──────────────────────────────────────────────────────────┘
+   _____________________________________
+  |                                     |
+  |  ARSHDEEP SINGH   [STAGE: B.TECH]   |
+  |                                     |
+  |  1. ETHNOGEN_V2.0 . . . .  839 SEED |
+  |  2. CLOUD_AZURE . . . . .  AI-900   |
+  |  3. PYTORCH_GNN . . . . .  0.42 MSE |
+  |_____________________________________|
+  |               [ O ]                 |
+  |      [  ]   [  ]   [  ]             |
+  |_____________________________________|
 ```
 
-## 🌿 CURRENT ALCHEMY QUESTS
-*   **Main Quest: The EthnoGen Elixir (v2.1):** Mutating natural plant seeds into verified therapeutic cures.
-    *   *Quest Log:* Ingested 839 Ayurvedic herbs. Generated 15,476 de novo derivatives. Successfully synthesized 2 Parthenolide-derived antiviral leads and 4 Glabridin memory-enhancing leads.
-*   **Side Quest: Anomaly Quarantine:** Caught 1,173 discrepancies where AI and physics disagreed. Spent 30 epochs training the GNN on local CUDA to resolve the magical divergence.
+## 🎮 SELECT PLAYER CHARACTER
+*   **Player 1 (Systems Coder):** Specializes in local C++ subprocesses, SQLite WAL transaction queues, and thread safety.
+*   **Player 2 (GNN Optimizer):** Specializes in 3D message-passing graph neural networks, protein LMs, and training loops.
 
-## 🎒 ALCHEMY INVENTORY (SKILL TAGS)
-*   **Spells (ML/AI):** `PyTorch` | `TensorFlow` | `PyTorch Geometric` | `SHAP (Explainable AI)` | `RL`
-*   **Vessels (Cloud):** `Azure AI-900 (Certified)` | `AWS Foundations` | `Docker`
-*   **Ingredients (Languages):** `Python` | `C` | `SQL` | `FastAPI` | `SQLite`
+## 🏆 HIGH SCORES (CERTIFICATIONS & PROJECTS)
+*   **[SCORE: 1,173]** Quarantined and trained on 1,173 active-learning biophysical anomalies.
+*   **[SCORE: 839]** Extracted, canonicalized, and validated 839 organic Ayurvedic plant seeds.
+*   **[SCORE: 91%]** Achieved 91% validation accuracy on Azure-deployed agricultural vision models.
 
----
-
-## 📊 GUILD LEADERBOARD METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=gruvbox" alt="Alchemist Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=gruvbox" alt="Spell Book" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshdeep2k5&theme=gruvbox" alt="Guild Streak" width="98%" />
-</p>
+## 🎛️ CONTROLLER MAPPINGS (TECH STACK)
+*   **D-Pad (AI/ML):** `PyTorch` | `TensorFlow` | `PyG` | `Keras` | `SHAP`
+*   **Button A (Cloud):** `Azure (Certified)` | `AWS Foundations` | `Docker`
+*   **Button B (DB/APIs):** `FastAPI` | `Flask` | `SQLite` | `MySQL` | `MongoDB`
 
 ---
 
-## 🦅 SEND A MESSENGER OWL
+## 📈 CABINET TELEMETRY
 
-*   **LinkedIn Guild:** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
-*   **Scroll Post:** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=synthwave" alt="Cabinet Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=synthwave" alt="Retro Frequencies" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshdeep2k5&theme=synthwave" alt="Play Streak" width="98%" />
+</p>
+
+---
+
+## 👾 JOIN MULTIPLAYER LOBBY
+
+*   **Steam Profile (LinkedIn):** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
+*   **Local Chat (Email):** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
