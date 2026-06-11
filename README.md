@@ -1,33 +1,33 @@
-# 🍄 The Mycelial Grid // Arshdeep Singh
-
-> "Modeling modern pharmacology using nature's original neural network."
+# 🌌 ORBITAL INSERTION COMPLETED // DEEP_SPACE_PROBE
 
 ```text
-       (Spore: Curcuma) ──► (Hyphae: PhytoFormer) ──► (Node: GNN)
-                                                           │
-       (Fruiting Body)   ◄── (Sap: Retrosynthesis) ◄───────┘
+       [ ORBITAL POCKET: 6LU7 ]                 [ SPEED: 2.0GB GPU ]
+       (=========.========)                     (=========.========)
+              \  /                                      \  /
+               \/   [ SLINGSHOT EFFECT: ACTIVE ]         \/
 ```
 
-## 🌿 THE HYPHAL NETWORK (ABOUT THE WORK)
-*   **Organic Connections:** I study how plants communicate. I took 839 raw, natural Ayurvedic plant seeds and treated them as starting nodes. 
-*   **The Mycelial Computer:** I built an automated virtual screening pipeline that behaves like a fungal network. It uses fast, cheap channels (CPU filters) to test chemistry, and only sends nutrients (GPU power) to the nodes that successfully dock inside our disease targets.
+## 🛰️ DEEP SPACE TELEMETRY (ABOUT ME)
+*   **The Explorer:** I am a final-year B.Tech CSE (AIML) student at The NorthCap University. I view molecular targets as massive gravity wells, and drug candidates as spacecraft attempting orbital insertion.
+*   **The Gravity Well:** I designed a local virtual screening engine. It runs on a 2GB local GPU, using gravitational slingshot equations (GNN and force fields) to guide 10,000+ candidates into the target pocket without burning up in the atmosphere (steric clash).
 
-## 🍃 THE NUTRIENT STACK (TECHNICAL SKILLS)
-*   **The Spores (ML/AI):** `PyTorch` | `PyTorch Geometric` | `TensorFlow` | `Keras` | `RDKit`
-*   **The Soil (Cloud/DB):** `Microsoft Azure (AI-900)` | `AWS Foundations` | `Docker` | `SQLite` | `FastAPI`
+## 🚀 PROBE INSTRUMENTS (TECHNICAL STACK)
+*   **Thrusters (ML/AI):** `PyTorch` | `PyG` | `TensorFlow` | `RDKit` | `SHAP`
+*   **Heat Shields (Cloud):** `Azure (AI-900)` | `AWS Foundations` | `Docker`
+*   **Comms Arrays (APIs/DBs):** `FastAPI` | `Flask` | `SQLite (WAL)` | `SQL`
 
 ---
 
-## 📈 NETWORK GROWTH TELEMETRY
+## 📈 DEEP SPACE TRANSMISSIONS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=tokyonight" alt="Mycelial Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=tokyonight" alt="Nutrient Channels" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=radical" alt="Space Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=radical" alt="Telemetry" width="48%" />
 </p>
 
 ---
 
-## 📡 SEND A NUTRIENT SIGNAL
+## 📡 SECURE UPLINK ESTABLISHED
 
-*   **Network Node (LinkedIn):** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
-*   **Chemical Signal (Email):** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
+*   **Ground Control (LinkedIn):** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
+*   **Deep Space Band (Email):** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
