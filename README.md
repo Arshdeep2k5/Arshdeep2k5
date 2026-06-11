@@ -1,36 +1,47 @@
-# ⚙️ THE CHRONOS ENGINE // SYSTEM_ACTIVE
+# 💻 arshdeep@aiml-node:~$
 
-```text
-   [ BOILER PRESSURE: 2.0GB GPU ]           [ GEAR RATIO: CGPA 7.21 ]
-   (=======O=======)                        (=======O=======)
-       [ VALVE A: PYTORCH ]                     [ VALVE B: VINA-ZN ]
+```bash
+$ whoami
+> Name: Arshdeep Singh
+> Role: Systems & Deep Learning Engineer
+> Focus: On-Device Biophysical AI Pipelines
+
+$ ls -la src/ethnogen_nexus/
+> total 839_seeds
+> drwxr-xr-x  S-0_phytoformer/ (Generative Chemistry)
+> drwxr-xr-x  S-1_to_S-4.5_safety_cascade/ (CPU Firewall)
+> drwxr-xr-x  S-6_affinity_gnn/ (3D Equivariant GNN)
+> drwxr-xr-x  S-7_vina_zn_docking/ (On-Device Physics)
+> drwxr-xr-x  S-8_retrosynthesis/ (FVS Recipe Generator)
 ```
 
-## 🔧 THE GEARBOX (ABOUT THE ENGINEER)
-*   **The Blueprint:** I am a final-year systems and deep-learning engineer at The NorthCap University. I view machine learning not as abstract code, but as a physical, clockwork machine that can fold and assemble molecules.
-*   **The Mechanical Funnel:** I built a local virtual screening engine. It runs on a 2GB VRAM GPU, using brass-like safety valves (PAINS, QED, ESOL) to filter out 90% of the candidate molecules before they ever reach the heavy steam pistons (AutoDock Vina).
+## 🛠️ $ ./show_toolkit.sh
+*   **ML_LIBRARIES:** `PyTorch` | `PyTorch-Geometric` | `TensorFlow` | `Keras` | `SHAP`
+*   **CLOUD_DEPLOY:** `Microsoft-Azure-AI900` | `AWS-Cloud-Foundations` | `Docker`
+*   **DB_AND_APIS :** `FastAPI` | `Flask` | `SQLite-WAL-mode` | `MySQL` | `MongoDB`
 
-## 🧰 TOOLKIT & BOILER REAGENTS
-*   **Boiler Fuels (ML/AI):** `PyTorch` | `PyTorch Geometric` | `TensorFlow` | `RDKit` | `SHAP`
-*   **Pressure Tubes (Cloud):** `Azure (AI-900)` | `AWS Cloud Foundations` | `Docker`
-*   **Gears & Linkages (APIs/DBs):** `FastAPI` | `Flask` | `SQLite (WAL Concurrency)` | `SQL`
-
----
-
-## 📈 TELEMETRY GAUGES
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=copper" alt="Steam Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=copper" alt="Gear Ratios" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshdeep2k5&theme=copper" alt="Engine Streak" width="98%" />
-</p>
+## 📡 $ python run_active_learning_report.py
+*   **Status:** `CONVERGED`
+*   **Epochs Completed:** 30
+*   **Final MSE Loss:** `0.42`
+*   **Active anomalies quarantined and resolved:** 1,173
 
 ---
 
-## 📟 CONTACT TRANSMITTER
+## 📈 $ cat system_metrics.log
 
-*   **Pneumatic Tube (LinkedIn):** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
-*   **Telegraph Line (Email):** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=matrix" alt="Terminal Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=matrix" alt="Shell Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshdeep2k5&theme=matrix" alt="Hacking Streak" width="98%" />
+</p>
+
+---
+
+## 🔌 $ ssh link_established.net
+
+*   **LinkedIn Node:** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
+*   **Secure SMTP:** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
