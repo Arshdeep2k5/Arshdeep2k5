@@ -1,37 +1,36 @@
-# 🎋 The Silent Garden // Arshdeep Singh
-
-> "A quiet space dedicated to translating natural plant structures into physical, on-device mathematics."
+# ⚙️ THE CHRONOS ENGINE // SYSTEM_ACTIVE
 
 ```text
- ─── ⚖️ ───
-  The seed is planted (839 Ayurvedic herbs).
-  The paper folds (3D conformers generate).
-  The wind aligns (EGNN predicts binding).
-  The stone locks (AutoDock Vina docks).
-  The path is woven (3-step synthesis recipes).
- ─── ⚖️ ───
+   [ BOILER PRESSURE: 2.0GB GPU ]           [ GEAR RATIO: CGPA 7.21 ]
+   (=======O=======)                        (=======O=======)
+       [ VALVE A: PYTORCH ]                     [ VALVE B: VINA-ZN ]
 ```
 
-## 🍃 THE FLOATING SEEDS (CORE FOCUS)
-*   **The Quiet Architecture:** I write resource-conscious Python and C++ code to screen molecules. I run entire deep-learning and docking loops locally within a tight 2.0 GB VRAM limit, ensuring the computer is never over-stressed.
-*   **The Verified Leads:** The system successfully isolated 2 de novo antiviral compounds and 4 raw, memory-enhancing *Glabridin* compounds from Licorice, proving that traditional plants contain highly active molecular keys.
+## 🔧 THE GEARBOX (ABOUT THE ENGINEER)
+*   **The Blueprint:** I am a final-year systems and deep-learning engineer at The NorthCap University. I view machine learning not as abstract code, but as a physical, clockwork machine that can fold and assemble molecules.
+*   **The Mechanical Funnel:** I built a local virtual screening engine. It runs on a 2GB VRAM GPU, using brass-like safety valves (PAINS, QED, ESOL) to filter out 90% of the candidate molecules before they ever reach the heavy steam pistons (AutoDock Vina).
 
-## 🪵 THE SOIL (TECHNICAL STACK)
-*   **The Roots (ML/AI):** `PyTorch` | `PyTorch Geometric` | `TensorFlow` | `ESM2` | `RDKit`
-*   **The Rain (Cloud/DB):** `Microsoft Azure (Certified)` | `AWS Foundations` | `Docker` | `SQLite` | `FastAPI`
+## 🧰 TOOLKIT & BOILER REAGENTS
+*   **Boiler Fuels (ML/AI):** `PyTorch` | `PyTorch Geometric` | `TensorFlow` | `RDKit` | `SHAP`
+*   **Pressure Tubes (Cloud):** `Azure (AI-900)` | `AWS Cloud Foundations` | `Docker`
+*   **Gears & Linkages (APIs/DBs):** `FastAPI` | `Flask` | `SQLite (WAL Concurrency)` | `SQL`
 
 ---
 
-## 📈 RIPPLES IN THE POND
+## 📈 TELEMETRY GAUGES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=nord" alt="Zen Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=nord" alt="Quiet Frequencies" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=copper" alt="Steam Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=copper" alt="Gear Ratios" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshdeep2k5&theme=copper" alt="Engine Streak" width="98%" />
 </p>
 
 ---
 
-## ✉️ LEAVE A MESSAGE IN THE SAND
+## 📟 CONTACT TRANSMITTER
 
-*   **LinkedIn Scroll:** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
-*   **Messeger Owl:** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
+*   **Pneumatic Tube (LinkedIn):** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
+*   **Telegraph Line (Email):** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
