@@ -1,33 +1,34 @@
-# 🌌 ORBITAL INSERTION COMPLETED // DEEP_SPACE_PROBE
+# 🪨 The Rosetta Stone // Inscribing Ancient Chemistry
+
+> "Translating traditional Ayurvedic Sanskrit into sub-atomic mathematical graphs."
 
 ```text
-       [ ORBITAL POCKET: 6LU7 ]                 [ SPEED: 2.0GB GPU ]
-       (=========.========)                     (=========.========)
+  [ SANSKRIT INDEX: HARIDRA ]             [ ATOMIC GLYPH: CANONICAL SMILES ]
+  (===========.===========)             (===========.===========)
               \  /                                      \  /
-               \/   [ SLINGSHOT EFFECT: ACTIVE ]         \/
+               \/   [ TRANSLATION MATRIX: COMPLETED ]    \/
 ```
 
-## 🛰️ DEEP SPACE TELEMETRY (ABOUT ME)
-*   **The Explorer:** I am a final-year B.Tech CSE (AIML) student at The NorthCap University. I view molecular targets as massive gravity wells, and drug candidates as spacecraft attempting orbital insertion.
-*   **The Gravity Well:** I designed a local virtual screening engine. It runs on a 2GB local GPU, using gravitational slingshot equations (GNN and force fields) to guide 10,000+ candidates into the target pocket without burning up in the atmosphere (steric clash).
+## 📜 DECRYPTING THE TABLETS (ABOUT THE WORK)
+*   **The Scribe:** I am a final-year systems and deep-learning engineer. I view organic chemistry as a language. Nature wrote the original text in plants, and our modern machine learning models act as translators.
+*   **The Decryption Key:** I built a virtual screening engine. It takes Sanskrit botanical names, maps them to Latin binomials, resolves their molecular structures on PubChem, and folds them in 3D to see if they complete the incomplete sentences inside modern disease pockets.
 
-## 🚀 PROBE INSTRUMENTS (TECHNICAL STACK)
-*   **Thrusters (ML/AI):** `PyTorch` | `PyG` | `TensorFlow` | `RDKit` | `SHAP`
-*   **Heat Shields (Cloud):** `Azure (AI-900)` | `AWS Foundations` | `Docker`
-*   **Comms Arrays (APIs/DBs):** `FastAPI` | `Flask` | `SQLite (WAL)` | `SQL`
+## 🪓 THE CARVING CHISELS (TECHNICAL STACK)
+*   **The Inscriptions (ML/AI):** `PyTorch` | `PyTorch Geometric` | `TensorFlow` | `RDKit` | `Keras`
+*   **The Quarry (Cloud/DB):** `Azure (AI-900)` | `AWS Foundations` | `Docker` | `SQLite (WAL Concurrency)` | `FastAPI`
 
 ---
 
-## 📈 DEEP SPACE TRANSMISSIONS
+## 📈 TRANSLATION METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=radical" alt="Space Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=radical" alt="Telemetry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshdeep2k5&show_icons=true&theme=sand" alt="Scribe Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshdeep2k5&layout=compact&theme=sand" alt="Linguistic Matrix" width="48%" />
 </p>
 
 ---
 
-## 📡 SECURE UPLINK ESTABLISHED
+## 📬 DISPATCH A SCROLL
 
-*   **Ground Control (LinkedIn):** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
-*   **Deep Space Band (Email):** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
+*   **Scribe Guild (LinkedIn):** [linkedin.com/in/arshdeepsingh2005](https://linkedin.com/in/arshdeepsingh2005)
+*   **Ink Post (Email):** [23csu049@ncuindia.edu](mailto:23csu049@ncuindia.edu)
