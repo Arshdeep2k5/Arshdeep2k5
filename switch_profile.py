@@ -26,6 +26,7 @@ DESCRIPTIONS = {
     "9": "The Cosmic Gravity Chart (Orbit/Space Probe) [Dark Mode]",
     "10": "The Rosetta Stone Cryptogram (Linguistic Decryption) [Light Mode]",
     "11": "The Bioluminescent Neural Grid (Quantum Lab Deck) [Dark Mode] (Custom Bonus)",
+    "12": "The Fighter Jet Command HUD v2.0 (Refined by Antigravity) [Dark Mode]",
 }
 
 def get_file_hash(filepath):
@@ -48,7 +49,7 @@ def detect_active_profile():
         return "original", DESCRIPTIONS["original"]
 
     # Check other options
-    for i in range(1, 12):
+    for i in range(1, 13):
         opt_path = os.path.join(OPTIONS_DIR, f"README_option_{i}.md")
         if get_file_hash(opt_path) == readme_hash:
             return str(i), DESCRIPTIONS[str(i)]
@@ -66,7 +67,7 @@ def list_options(active_key):
     print(" - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
     
     # Show options
-    for i in range(1, 12):
+    for i in range(1, 13):
         key = str(i)
         marker = " -> [ ACTIVE ]" if active_key == key else ""
         print(f" [{key:8}] {DESCRIPTIONS[key]}{marker}")
